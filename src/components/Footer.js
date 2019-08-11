@@ -5,7 +5,7 @@ const Footer = () =>
     <footer className="site-footer outer">
         <div className="site-footer-content inner">
             <section className="copyright">
-                <Link to="/">iloves.club</Link> | 5 giây Thông Minh
+                <Link to="/">Televba.com</Link> | 5 giây Thông Minh
             </section>
             <nav>
                 <a className="social-logo" href="https://youtu.be/N4WTi9EHLqA" >
