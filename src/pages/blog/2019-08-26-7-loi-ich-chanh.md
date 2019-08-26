@@ -5,7 +5,7 @@ title: 7 Lợi Ích Tuyệt Vời Của Vỏ Chanh
 image: https://i.ytimg.com/vi/GQyk-uyyNko/maxresdefault.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-06-18T12:00:00.226Z
+date: 2019-08-26T12:00:00.226Z
 description: Chanh là một loại gia vị phổ biến được yêu thích trên khắp thế giới. Nhưng bạn có biết, chanh còn là một trong những loại thực phẩm mà bạn có thể sử dụng từng thành phần của nó – từ thịt đến vỏ.
 ---
 
