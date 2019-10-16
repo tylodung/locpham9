@@ -5,8 +5,8 @@ title: 3 điểm trên cơ thể xoa bóp hàng ngày sẽ giúp bổ thận, gi
 image: http://thuocthang.com.vn/vnt_upload/File/Image/chua_benh_xuong_khop_1503_1.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-06-18T12:00:00.226Z
-description: Quan Nguyên là huyệt hội của ba kinh âm và mạch nhâm, được cổ nhân coi là nơi “nguyên âm và nguyên dương giao nhau trong cơ thể”. Huyệt vị này tập trung nguyên khí và có vai trò đặc biệt quan trọng.
+date: 2019-10-16T12:00:00.226Z
+description: Quan Nguyên là huyệt hội của ba kinh âm và mạch nhâm, được cổ nhân coi là nơi “nguyên âm và nguyên dương giao nhau trong cơ thể”.
 ---
 
 **1. Huyệt Quan Nguyên**
