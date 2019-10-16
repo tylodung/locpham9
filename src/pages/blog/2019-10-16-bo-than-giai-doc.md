@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /bo-than-giai-doc
 title: 3 điểm trên cơ thể xoa bóp hàng ngày sẽ giúp bổ thận, giải độc, an thần
-image: http://thuocthang.com.vn/vnt_upload/File/Image/chua_benh_xuong_khop_1503_1.jpg
+image: https://image1.phunuphapluat.vn/2018/11/01/trung-y-tiet-lo-3-diem-tren-co-the-xoa-bop-hang-ngay-se-giup-bo-than-giai-doc-an-than-161357.jpg
 tags: ["meo vat"]
 uev: 4.18.3
 date: 2019-10-16T12:00:00.226Z
