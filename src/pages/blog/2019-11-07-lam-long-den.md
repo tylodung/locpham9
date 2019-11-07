@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /lam-long-den
 title: Mẹo làm lồng đèn tròn bằng giấy đẹp mắt cho đêm Trung thu
-image: http://dailyyensao.vn/uploads/Files/maxresdefault-1.jpg
+image: https://media.cooky.vn/article/s640/Article606-635787021345631653.jpg
 tags: ["meo vat"]
 uev: 4.18.3
 date: 2019-11-07T12:00:00.226Z

@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /cach-duoi-muoi
 title: Cách đuổi muỗi trong phòng ngủ cực kỳ hiệu quả mà lại dễ làm
-image: http://3.bp.blogspot.com/-kEwKgF3Ea4E/VcgCOR2ZPlI/AAAAAAAAAIY/JHubYpYHO4g/s1600/muoi%2Bdot.jpg
+image: https://anh.eva.vn/upload/4-2017/images/2017-11-06/4-cach-duoi-muoi-trong-phong-ngu-hieu-qua-nhat-den-bat-muoi-loai-nao-tot-02-1509946378-467-width500height321.jpg
 tags: ["meo vat"]
 uev: 4.18.3
 date: 2019-11-07T12:00:00.226Z
