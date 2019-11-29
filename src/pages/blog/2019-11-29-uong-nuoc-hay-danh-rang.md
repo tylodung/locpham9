@@ -5,7 +5,7 @@ title: Đánh răng hay uống nước trước sau khi ngủ dậy?
 image: https://i.ytimg.com/vi/26vb-BEEfXA/maxresdefault.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-06-18T12:00:00.226Z
+date: 2019-11-29T12:00:00.226Z
 description: Ai cũng biết nên đánh răng sau giấc ngủ dài và uống một cốc nước để bổ sung năng lượng cho cơ thể sau 1 đêm, nhưng hầu như không ai biết trình tự thực hiện đúng của cả hai việc này.
 ---
 
