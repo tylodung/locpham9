@@ -5,8 +5,8 @@ title: Cách chữa 4 loại bệnh tật bằng mẹo rất hay
 image: https://cosmedicalclinic.com/wp-content/uploads/2018/04/dui-mat-khien-mat-tro-nen-met-moi-kho-va-nhanh-lao-hoa-hon-2-min-1280x720.png
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-06-19T12:00:00.226Z
-description: Hàng ngày có vô vàn những căn bệnh nho nhỏ được chữa bằng mẹo, không cần động đến 1 viên thuốc tây nào. Hãy tham khảo cách chữa 4 loại bệnh tật bằng mẹo không cần thuốc của vị giáo sư đáng kính này.
+date: 2019-12-02T12:00:00.226Z
+description: Hàng ngày có vô vàn những căn bệnh nho nhỏ được chữa bằng mẹo, không cần động đến 1 viên thuốc tây nào. 
 ---
 
 ![ten buc hinh](http://autoxe.net/wp-content/uploads/2017/10/luu-lai-khi-can-de-dung-cach-chua-46-loai-benh-tat-bang-meo-rat-hay-xin-chan-thanh-c.jpg "ten buc hinh")

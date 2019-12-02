@@ -5,7 +5,7 @@ title: Chuyên gia hướng dẫn cách ngủ trưa tốt nhất để chăm só
 image: https://www.elleman.vn/wp-content/uploads/2018/11/05/nhip-sinh-hoc-elle-man.png
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-06-19T12:00:00.226Z
+date: 2019-12-02T12:00:00.226Z
 description: Gan khỏe hay yếu nhờ vào giấc ngủ. Vì khi ngủ gan sẽ được tái tạo và phục hồi. Ngoài việc đi ngủ sớm, giấc ngủ trưa vô cùng quan trọng.
 ---
 
@@ -17,7 +17,7 @@ Các bác sĩ cho rằng, không ngủ buổi trưa, làm hỏng buổi chiều.
 
 **Vậy, rốt cuộc thì nên ngủ trưa thế nào mới đúng? Đây là lời khuyên chung của các chuyên gia.**
 
-Thời gian: Nên ngủ khoảng nửa giờ thích hợp nhất
+Thời gian: Nên ngủ khoảng nửa giờ thích hợp nhất.
 
 Thời gian ngủ trưa, không phải là lúc bạn cần phải ngủ cho “đã mắt” mà chỉ nên ngủ tối đa khoảng 30 phút. Nếu không đủ thời gian đó thì có nên ngủ không?
 
@@ -47,7 +47,7 @@ Do đó, hãy tranh thủ thời gian để ngủ trưa tốt nhất trong kho�
 
 Nếu bạn có đủ thời gian, thì nên lựa chọn một giấc ngủ ngắn 30 phút, hoặc là ngủ sâu từ 1-1,5 tiếng thay vì chọn một khoảng thời gian ở giữa hai mốc này. 1,5 giờ đồng hồ có thể xem là một giấc ngủ sâu hoàn chỉnh.
 
-Tư thế: Ngủ trưa tốt nhất nên dùng gối hình chữ U
+Tư thế: Ngủ trưa tốt nhất nên dùng gối hình chữ U.
 
 Rất nhiều người có thói quen cúi úp mặt trên bàn để ngủ trưa. Thực tế đây là một tư thế không tốt. Thứ nhất là có thể khiến bạn cảm thấy không thoải mái, dễ bị các bệnh về cổ vai gáy, trong thời gian dài sẽ bị biến dạng xương cổ và cột sống, mỏi vùng cổ vai gay dẫn đến sinh bệnh.
 
@@ -73,11 +73,11 @@ Nếu bạn ngủ trưa xong mà có cảm giác bị chóng mặt, nhức đầ
 
 Nếu bạn đang phải uống thuốc hạ huyết áp thì không nên ngủ trưa ngay sau đó. Để an toàn, uống thuốc xong nên ngồi nghỉ khoảng từ 15-30 phút mới được nằm ngủ để không ảnh hưởng đến quá trình hấp thụ thuốc và phòng tránh buồn ngủ.
 
-Ngủ dậy cần xoa bóp, uống nước
+*Ngủ dậy cần xoa bóp, uống nước*
 
 Nhiều người ngủ xong dậy sẽ khó chịu, uể oải, đau chỗ này chỗ kia. Sau khi ngủ dậy, bạn nên vận động nhẹ hoặc xoa bóp một chút trước khi làm việc. Đồng thời nên uống bổ sung nước để cơ thể tỉnh táo hẳn, bổ sung nước làm loãng máu, tránh máu vón cục.
 
-Nếu bạn không được ngủ trưa, hãy thử phương pháp này để thay thế
+Nếu bạn không được ngủ trưa, hãy thử phương pháp này để thay thế.
 
 Đây là việc giúp bạn “sạc” năng lượng cho cơ thể nếu bạn không thể ngủ trưa.
 
