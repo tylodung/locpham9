@@ -5,7 +5,7 @@ title: Công dụng chữa bệnh thần kỳ của mộc nhĩ không phải ai 
 image: https://i.ytimg.com/vi/8D7c4Q8sODs/maxresdefault.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-06-19T12:00:00.226Z
+date: 2019-12-07T12:00:00.226Z
 description: Ăn mộc nhĩ sẽ giúp ngăn chặn được bệnh tắc hoặc vỡ mạch máu ở người tăng huyết áp, hạn chế tai biến nhồi máu cơ tim.
 ---
 

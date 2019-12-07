@@ -5,9 +5,12 @@ title: Tự pha nước uống buổi sáng giúp đánh bay Bụng Bia lâu nă
 image: https://kenh14cdn.com/2018/11/23/maxresdefault-15429502668391207930485.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-06-19T12:00:00.226Z
-description: Bụng là vùng dễ tích mỡ nhất và cũng là bộ phận ít hoạt động nhất của cơ thể. Chính bởi vậy khi béo, bụng thường tăng size đầu tiên. Các nguyên nhân gây béo bụng rất đa dạng nhưng chủ yếu do chế độ ăn không hợp lý, ăn quá nhiều tinh bột và đường, lười vận động, phụ nữ sau sinh nở…
+date: 2019-12-07T12:00:00.226Z
+description: Bụng là vùng dễ tích mỡ nhất và cũng là bộ phận ít hoạt động nhất của cơ thể. Chính bởi vậy khi béo, bụng thường tăng size đầu tiên. 
 ---
+
+Các nguyên nhân gây béo bụng rất đa dạng nhưng chủ yếu do chế độ ăn không hợp lý, ăn quá nhiều tinh bột và đường, lười vận động, phụ nữ sau sinh nở…
+
 Không mời mà đến, nhưng đuổi không chịu đi, mỡ bụng tích tụ lâu năm rất khó loại bỏ, bởi theo thời gian, mô mỡ sẽ tích tụ dày lên, tạo thành màng bám mỡ nên bụng cũng to lên. Các liên kết mỡ nằm sâu gắn chặt với nhau.
 
 Dưới đây là 5 thức uống bạn nên bổ sung vào buổi sáng để giúp bạn ăn ít lại mà vẫn có đầy đủ calo để hoạt động cả ngày.
@@ -16,17 +19,17 @@ Dưới đây là 5 thức uống bạn nên bổ sung vào buổi sáng để g
 
 Nguyên liệu:
 
-Một quả dưa chuột
+Một quả dưa chuột;
 
-2 quả chanh
+2 quả chanh;
 
-2 thìa gừng nạo
+2 thìa gừng nạo;
 
 Vài lá bạc hà.
 
 Cách làm:
 
-Ép lấy nước dưa chuột và chanh
+Ép lấy nước dưa chuột và chanh;
 
 Thêm lá bạc hà đã băm nhỏ và gừng nạo.
 
@@ -36,9 +39,9 @@ Bạn có thể cho thêm nước lọc, khuấy đều trước khi uống. U�
 
 Nguyên liệu:
 
-3 tép tỏi
+3 tép tỏi;
 
-Một thìa canh mật ong
+Một thìa canh mật ong;
 
 Chanh tươi thái lát.
 
@@ -52,13 +55,13 @@ Nhai tỏi sau đó uống nước chanh mật ong này. Nếu bạn không thí
 
 Nguyên liệu:
 
-100g cải ngựa
+100g cải ngựa;
 
-Một ít gừng
+Một ít gừng;
 
-3 lát chanh
+3 lát chanh;
 
-4 thìa canh mật ong
+4 thìa canh mật ong;
 
 2 thìa cà phê quế.
 
@@ -66,7 +69,7 @@ Cách làm:
 
 Xay cải ngựa và gừng cho sền sệt.
 
-Thêm mật ong, chanh và bột quế
+Thêm mật ong, chanh và bột quế;
 
 Pha với nước lọc và uống trước khi ăn sáng.
 
@@ -74,7 +77,7 @@ Pha với nước lọc và uống trước khi ăn sáng.
 
 Nguyên liệu:
 
-Nha đam
+Nha đam;
 
 Mật ong.
 
@@ -90,17 +93,18 @@ Cho thêm mật ong. Uống nước này một giờ trước bữa ăn sáng.
 
 Nguyên liệu:
 
-Giấm táo
+Giấm táo;
 
-Một quả chanh
+Một quả chanh;
 
-Bột quế
+Bột quế;
 
 Mật ong.
 
 Cách làm:
 
-Lấy một ly nước lọc, thêm hai thìa canh giấm táo, nước cốt chanh
+Lấy một ly nước lọc, thêm hai thìa canh giấm táo, nước cốt chanh;
+
 Rắc một chút bột quế và thêm ít mật ong vào. Uống vào mỗi sáng để giảm cân và đánh bay mỡ bụng hiệu quả.
 
 Chúc các bạn giảm cân thành công.
