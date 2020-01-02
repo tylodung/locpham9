@@ -5,7 +5,7 @@ title: Làm Thế Nào Trị Mụn Trên Da Đầu Nhanh Nhất?
 image: https://www.elleman.vn/wp-content/uploads/2018/09/28/mun-dau-den-elle-man.png
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-07-05T12:00:00.226Z
+date: 2020-01-02T12:00:00.226Z
 description: Mụn trứng cá có thể xuất hiện trên da đầu tương tự như trên mặt hay các vực khác của cơ thể. Mụn mọc trên đầu quả thực gây khó chịu cho rất nhiều người.
 ---
 
