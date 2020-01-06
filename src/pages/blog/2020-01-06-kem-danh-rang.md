@@ -5,7 +5,7 @@ title: Công dụng tuyệt vời của kem đánh răng ít người biết
 image: https://trihung.com/blog/wp-content/uploads/2019/06/kem-danh-rang-loai-nao-tot.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-07-04T12:00:00.226Z
+date: 2020-01-06T12:00:00.226Z
 description: Ngoại trừ tác dụng làm sạch, trắng răng… kem đánh răng còn giúp ích rất nhiều trong cuộc sống hàng ngày, đặc biệt ngờ vào khả năng làm trắng và tẩy rửa của nó.
 ---
 
