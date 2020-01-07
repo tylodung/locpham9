@@ -5,7 +5,7 @@ title: Cách chữa 6 loại bệnh tật bằng mẹo rất hay
 image: https://chaobuoitoi.com/wp-content/uploads/2018/06/46-bai-thuoc-meo-chua-benh.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-07-07T12:00:00.226Z
+date: 2020-01-07T12:00:00.226Z
 description: Giữa môi dưới rồi kéo thẳng xuống ụ cằm (hình thành một dấu hỏi lớn chiếm 3/4 quanh miệng). Nhớ lăn từ phải qua trái mới nhuận tràng, hết táo bón.
 ---
 
