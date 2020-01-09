@@ -5,11 +5,12 @@ title: 7 Lợi Ích Tuyệt Vời Của Vỏ Chanh
 image: https://i.ytimg.com/vi/GQyk-uyyNko/maxresdefault.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-08-26T12:00:00.226Z
+date: 2020-01-09T12:00:00.226Z
 description: Chanh là một loại gia vị phổ biến được yêu thích trên khắp thế giới. Nhưng bạn có biết, chanh còn là một trong những loại thực phẩm mà bạn có thể sử dụng từng thành phần của nó – từ thịt đến vỏ.
 ---
 
 Vỏ chanh chứa nhiều Vitamin, khoáng chất và chất xơ giúp tăng cường dinh dưỡng. Trong thực tế, so với nước chanh, vỏ có nhiều Vitamin A và C, Beta-caroten, Folate, Canxi, Magiê và Kali.
+
 Lớp vỏ chanh thậm chí còn có mùi tươi mát rất dễ chịu, có thể thêm hương vị và mùi thơm cho thực phẩm cũng như đồ uống. Nó cũng cung cấp những lợi ích trong việc dưỡng da và vệ sinh gia đình.
 
 Dưới đây là các ứng dụng tuyệt vời của vỏ chanh ít được biết đến.
@@ -44,7 +45,7 @@ Cho 1 muỗng canh vỏ chanh thái mỏng (loại bỏ cùi xốp) vào cốc.
 
 Đậy lại và để cho nó ngấm trong 10 phút.
 
-Lắc đều
+Lắc đều.
 
 Thêm mật ong và khuấy kỹ.
 
@@ -54,7 +55,7 @@ Uống trà trong khi vẫn ấm.
 
 Đối phó với kiến ​​là một nhiệm vụ mệt mỏi. Bây giờ, bạn có thể làm cho nhà bếp của bạn và các khu vực khác trong nhà không còn bóng dáng một con kiến nào nhờ sự giúp đỡ của vỏ chanh.
 
-Mùi chanh có tác dụng ngăn chặn kiến . Ngoài ra, các thành phần có tính axit trong nó sẽ làm cho kiến mất dấu vết của nhau và mất phương hướng.
+Mùi chanh có tác dụng ngăn chặn kiến. Ngoài ra, các thành phần có tính axit trong nó sẽ làm cho kiến mất dấu vết của nhau và mất phương hướng.
 
 Thái vỏ chanh thành từng lát mỏng.
 
@@ -70,7 +71,7 @@ Nó đặc biệt hiệu quả trong việc làm sạch cửa sổ kính, gươn
 
 Cho một vài miếng vỏ chanh rửa sạch, thái nhỏ vào một cái lọ thủy tinh sạch.
 
-Đổ giấm trắng vào đầy bình
+Đổ giấm trắng vào đầy bình.
 
 Đặt nắp đậy và giữ bình lên vách cửa sổ dưới trời nắng trong 2-3 tuần, thỉnh thoảng lắc nó.
 

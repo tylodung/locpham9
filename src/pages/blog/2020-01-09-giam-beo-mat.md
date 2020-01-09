@@ -5,7 +5,7 @@ title: Tạm biệt gương mặt tròn vo với 9 bài tập giảm béo
 image: https://i.ytimg.com/vi/VBcIaJqEpEE/maxresdefault.jpg
 tags: ["lam dep"]
 uev: 4.18.3
-date: 2019-07-14T12:00:00.226Z
+date: 2020-01-09T12:00:00.226Z
 description: Tuy nhiên, không phải ai cũng có thể dễ dàng loại bỏ mỡ mặt bằng cách tập thể dục.
 ---
 
@@ -41,7 +41,7 @@ Thực hiện động tác này bất cứ khi nào bạn có thể. Ít nhất 
 
 Bạn có thể mất một khoảng thời gian để quen với bài tập này nhưng khi đã quen và thành thạo, đây sẽ là một trong số những cách hiệu quả nhất để làm giảm béo mặt.
 
-Mím chặt và chu môi
+Mím chặt và chu môi.
 
 Thổi phồng má để vùng trong và dưới đều phồng lên. Giữ tư thế này trong 10s.
 
@@ -63,7 +63,7 @@ Giữ tư thế này trong vòng 30 giây, nghỉ một chút, rồi thở ra, r
 
 Lặp lại 10 cái trong một lần tập.
 
-Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai lần một ngày
+Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai lần một ngày.
  
 **4. Bài Tập “Miệng Cá”**
 
@@ -123,13 +123,13 @@ Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất
 
 Động tác này sẽ kéo giãn cơ hàm và cằm, bắt chúng hoạt động, đánh tan và giảm dần đám mỡ thừa tích tụ.
 
-Ngửa đầu hướng mắt về phía trần nhà
+Ngửa đầu hướng mắt về phía trần nhà.
 
 Mím môi trên và dưới của bạn vào trong cho đến khi bạn thấy cơ cằm và cổ căng lên.
 
 Giữ tư thế trong vòng 10s, rồi thư giãn.
 
-Lặp lại 20 lần động tác này
+Lặp lại 20 lần động tác này.
 
 Thực hiện động tác này nhiều nhất có thể trong ngày. Ít nhất là hai lần một ngày.
  
@@ -147,9 +147,9 @@ Nghiêng đầu sang một bên, từ từ hướng về phía trần nhà, nghi
 
 Tiếp tục thực hiện mỗi bên 10 lần, rồi thả lỏng
 
-Thực hiện thêm 10 lần nữa
+Thực hiện thêm 10 lần nữa.
 
-Thực hiện động tác này 2 lần/ngày
+Thực hiện động tác này 2 lần/ngày.
 
 Những động tác trên khá nhẹ nhàng vì vậy mà bạn có thể thực hiện bao nhiêu lần tùy theo mong muốn của mình. Nếu bạn muốn sở hữu một gương mặt thon gọn rạng rỡ, còn chần chờ gì nữa mà không bắt tay thực hiện ngay nhỉ?
 

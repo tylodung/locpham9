@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://www.elleman.vn/wp-content/uploads/2018/11/16/nguyen-nhan-hoi-chan-elle-man.png' title="Televba Mỗi Ngày" tagline="Cuộc sống, Mẹo vặt, Làm đẹp.." />
+        <Header image='https://www.elleman.vn/wp-content/uploads/2018/11/16/nguyen-nhan-hoi-chan-elle-man.png' title="Televba " tagline="Cuộc sống, Mẹo vặt, Làm đẹp.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
