@@ -5,8 +5,8 @@ title: 5 loại quả này được khuyên nên ăn thường xuyên
 image: https://i.ytimg.com/vi/KnI-Hc2OrZA/maxresdefault.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2019-08-26T12:00:00.226Z
-description: Nhiều người không thích ăn trái cây, hoặc sợ ăn trái cây sẽ làm tăng cân. Nhưng với 5 loại trái cây này, bạn có thể ăn quanh năm suốt tháng vì những tác dụng trên cả tuyệt vời.
+date: 2020-01-14T12:00:00.226Z
+description: Nhiều người không thích ăn trái cây, hoặc sợ ăn trái cây sẽ làm tăng cân nhưng với 5 loại trái cây này, bạn có thể ăn quanh năm suốt tháng vì những tác dụng trên cả tuyệt vời.
 ---
 
 Thường xuyên ăn hoa quả là một thói quen tuyệt vời mà ai cũng nên tập cho mình, đặc biệt là việc bố mẹ rèn cho con cái sở thích ăn hoa quả đều đặn mỗi ngày.
