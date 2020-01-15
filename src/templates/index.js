@@ -17,7 +17,7 @@ const IndexPage = ({ data, pathContext }) => {
 
       <div className="home-template">
 
-        <Header image='https://mb.dkn.tv/wp-content/uploads/2016/01/thumbnail-112-700x366.jpg' title="Televba " tagline="Cuộc sống, Mẹo vặt, Làm đẹp.." />
+        <Header image='https://mb.dkn.tv/wp-content/uploads/2016/01/thumbnail-112-700x366.jpg' title="Mẹo Hay Mỗi Ngày " tagline="Cuộc sống, Mẹo vặt, Làm đẹp.." />
       
         <main id="site-main" className="site-main outer" role="main">
 
