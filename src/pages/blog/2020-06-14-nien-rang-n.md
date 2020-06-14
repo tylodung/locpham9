@@ -2,10 +2,10 @@
 templateKey: blog-post
 path: /nien-rang
 title: Những ai đang niềng răng chớ dại đụng vào những món này
-image: https://bacsiranghammat.vn/wp-content/uploads/2016/11/rang-vau-6.jpg
+image: https://cdn.eva.vn/upload/4-2018/images/2018-10-20/30-tuoi-co-nen-nieng-rang-hay-khong-nieng-rang-1540039642-836-width640height480.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2020-01-06T12:00:00.226Z
+date: 2020-06-14T12:00:00.226Z
 description: Khi bạn phải đeo niềng răng với mục tiêu có hàm răng thẳng đều và đẹp, bạn nhất thiết phải tránh các thức ăn có hại sau đây, bởi có thể chúng sẽ khiến hàm răng của bạn không được như mong muốn.
 ---
 

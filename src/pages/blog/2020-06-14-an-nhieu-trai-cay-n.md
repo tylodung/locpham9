@@ -2,10 +2,10 @@
 templateKey: blog-post
 path: /an-nhieu-trai-cay
 title: 5 loại quả này được khuyên nên ăn thường xuyên
-image: https://i.ytimg.com/vi/KnI-Hc2OrZA/maxresdefault.jpg
+image: https://image-us.eva.vn/upload/3-2018/images/2018-08-03/an-qua-nhieu-trai-cay-khong-tot-nhung-an-5-loai-qua-nay-cang-nhieu-cang-tot-cho-suc-khoe-trai-cay1-15331132143471276157929-1533265891-782-width600height450.jpg
 tags: ["meo vat"]
 uev: 4.18.3
-date: 2020-01-14T12:00:00.226Z
+date: 2020-06-14T12:00:00.226Z
 description: Nhiều người không thích ăn trái cây, hoặc sợ ăn trái cây sẽ làm tăng cân nhưng với 5 loại trái cây này, bạn có thể ăn quanh năm suốt tháng vì những tác dụng trên cả tuyệt vời.
 ---
 
