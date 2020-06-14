@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /an-nhieu-trai-cay
 title: 5 loại quả này được khuyên nên ăn thường xuyên
-image: https://image-us.eva.vn/upload/3-2018/images/2018-08-03/an-qua-nhieu-trai-cay-khong-tot-nhung-an-5-loai-qua-nay-cang-nhieu-cang-tot-cho-suc-khoe-trai-cay1-15331132143471276157929-1533265891-782-width600height450.jpg
+image: https://i2.wp.com/tamsucuocsong.vn/wp-content/uploads/2020/02/5-25.png?resize=650%2C361
 tags: ["meo vat"]
 uev: 4.18.3
 date: 2020-06-14T12:00:00.226Z
